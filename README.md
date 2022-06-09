@@ -1,3 +1,8 @@
+[![PyPI](https://img.shields.io/badge/python-3.9-yellow.svg)]()
+[![license](https://img.shields.io/github/license/linkedearth/Pyleoclim_util.svg)]()
+[![DOI](https://zenodo.org/badge/59611213.svg)](https://zenodo.org/badge/latestdoi/59611213)
+
+
 # Spectral and wavelet analysis of core ODP846
 
 
