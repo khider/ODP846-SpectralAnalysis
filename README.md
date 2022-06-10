@@ -1,7 +1,7 @@
 [![PyPI](https://img.shields.io/badge/python-3.9-yellow.svg)]()
 [![license](https://img.shields.io/github/license/khider/ODP846-SpectralAnalysis.svg)]()
 [![DOI](https://zenodo.org/badge/501812580.svg)](https://zenodo.org/badge/latestdoi/501812580)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khider/ODP846-SpectralAnalysis/HEAD)
 
 # Spectral and wavelet analysis of core ODP846
 
